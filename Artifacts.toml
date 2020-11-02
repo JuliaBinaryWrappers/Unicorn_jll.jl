@@ -1,0 +1,99 @@
+[[Unicorn]]
+arch = "aarch64"
+git-tree-sha1 = "29f4ebf8988dd0c357b1475f2ca50045953e9059"
+libc = "glibc"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "9086213ce307acd85c390681d24f167b440fd9286d0a71e39e44e5d7a24f9c05"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.aarch64-linux-gnu.tar.gz"
+[[Unicorn]]
+arch = "aarch64"
+git-tree-sha1 = "f7a6cc03c92675f317dba432c8452f3a1661b3b0"
+libc = "musl"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "f455e14805d4bf53206d1b5d8c75e874f86ae994368acbc9dd95542687032473"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.aarch64-linux-musl.tar.gz"
+[[Unicorn]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b79fbd347a5c74ae795dd99ba312d29ec0872843"
+libc = "glibc"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "5e0359df950bd8e00ec3a28762729aa90b01cf6f4ce3cf1e6882b520802effdf"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.armv7l-linux-gnueabihf.tar.gz"
+[[Unicorn]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a76e5b9d7becf56e0409696e2c675217c7fbcd8e"
+libc = "musl"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "ce9d55dc7e73490d7c026e31cf69cbc25569c186f88d8de527ffde3e0bf93491"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.armv7l-linux-musleabihf.tar.gz"
+[[Unicorn]]
+arch = "i686"
+git-tree-sha1 = "d18463529068b2c4471aa798f88820c4c0fd0ce8"
+libc = "glibc"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "15adca550d45d383ae6cae0f0b370594534ffc487cfcba8549f43300fcb743ef"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.i686-linux-gnu.tar.gz"
+[[Unicorn]]
+arch = "i686"
+git-tree-sha1 = "94caa6a6c02d37ff1721d6a94df381453081d7d2"
+libc = "musl"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "f2ee615675fcf4da10be253bab405c2d36039cc17d159afc0b2b3a875f6596fc"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.i686-linux-musl.tar.gz"
+[[Unicorn]]
+arch = "powerpc64le"
+git-tree-sha1 = "0f1721026c86874207e77bdea87c7e1111f350ea"
+libc = "glibc"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "ee5994276bc9ed1b51e81aa5fd428b11f91c95eb64d7c5be79c680155a10ec04"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.powerpc64le-linux-gnu.tar.gz"
+[[Unicorn]]
+arch = "x86_64"
+git-tree-sha1 = "c26ee81cf959a5ecb9e0faba0c9aaf25accfda87"
+os = "macos"
+
+    [[Unicorn.download]]
+    sha256 = "fd0b5b577945b8a65b4ab55ca69efc428780494d756d9dd8452aa76a8973b7d7"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.x86_64-apple-darwin.tar.gz"
+[[Unicorn]]
+arch = "x86_64"
+git-tree-sha1 = "c45e4eb24dc383b72337feda93c95e1d362824ab"
+libc = "glibc"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "7e5ee72daeae7b3da3ee532ff73719371b48cbaa46d3aa238457d67919e6022e"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.x86_64-linux-gnu.tar.gz"
+[[Unicorn]]
+arch = "x86_64"
+git-tree-sha1 = "73922f7184e586b2c45eedecf0d1014bc93066eb"
+libc = "musl"
+os = "linux"
+
+    [[Unicorn.download]]
+    sha256 = "a42b60beb42960ca83f1e03345b6fa166368d844d74f3c74ff06c53d22a97985"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.x86_64-linux-musl.tar.gz"
+[[Unicorn]]
+arch = "x86_64"
+git-tree-sha1 = "38de5bf688bf2133971807575616f4e6e194a1e3"
+os = "freebsd"
+
+    [[Unicorn.download]]
+    sha256 = "7d0efea12e0bd283865674abbc231710ffc92fdef805ebcf13bcfccfd3912371"
+    url = "https://github.com/JuliaBinaryWrappers/Unicorn_jll.jl/releases/download/Unicorn-v1.0.2+0/Unicorn.v1.0.2.x86_64-unknown-freebsd.tar.gz"
